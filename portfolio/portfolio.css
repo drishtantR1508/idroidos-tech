@@ -33,7 +33,7 @@ body{
   color:#b3ffc0;
 
 }
-li{
+.nav{
   padding:1rem;
   padding-top: 0.4rem;
   display: inline-block;
